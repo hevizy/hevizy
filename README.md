@@ -7,8 +7,11 @@ A university student specialising in systems analysis. Currently exploring which
 
  
 💻  I'm currently studying computer science
+
 💣  I'm currently working on my ....
+
 🖥  I like to draw inspiration from other people’s projects
+
 💬  I enjoy taking Cisco courses
 
 ## 🧰 Toolkit
