@@ -11,8 +11,6 @@ A university student specialization in systems analysis. Currently I'm learning 
 <a href="#"><img src="images/fastapi-plain.svg" width="64" alt="FastAPI"></a>
 ### Tools
 <a href="#"><img src="images/pycharm-original.svg" width="70" alt="PyCharm"></a>
-<a href="#"><img src="images/git-original.svg" width="70" alt="Git"></a>
-<a href="#"><img src="images/github-original 2.svg" width="70" alt="GitHub"></a>
 <a href="#"><img src="images/postgresql-original-wordmark.svg" width="70" alt="PostgreSQL"></a>
 <a href="#"><img src="images/sqlite-original-wordmark.svg" width="75" alt="SQLite"></a>
 <a href="#"><img src="images/pytest-original.svg" width="75" alt="PyTest"></a>
